@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">time_management_Application</string>
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="feb_2021">Feb 2021</string>
+    <string name="next"><![CDATA[->]]></string>
+    <string name="sun">SUN</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thu">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+    <string name="enter_event_name">Enter Event Name</string>
+    <string name="enter_event_date">Enter Event date</string>
+    <string name="event_details">Event Details</string>
+    <string name="enter_event_time">Enter Event time</string>
+    <string name="save_event">Save Event</string>
+</resources>
